@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: 
+
+User-Agent: Googlebot
+Disallow: 
+
+User-agent: Googlebot-image
+Disallow: 
+
+Sitemap: https://resume.itsburning.nl/sitemap.xml
